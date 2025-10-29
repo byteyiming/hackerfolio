@@ -1,0 +1,54 @@
+{
+  "site": {
+    "siteTitle": "Yiming Gao · Software Engineer / AI Developer",
+    "description": "Matrix-themed portfolio: backend engineering, AI integration, and data analytics.",
+    "author": "Yiming Gao",
+    "keywords": ["Next.js", "TypeScript", "AI", "Portfolio", "Matrix"],
+    "url": "https://yimgao.com",
+    "ogImage": "/og-image.png",
+    "themeColor": "#00ff00",
+    "colorScheme": "dark"
+  },
+  "hero": {
+    "title": "Hi, I'm Yiming",
+    "subtitle": "Software Engineer · AI Developer",
+    "typing": [
+      "Backend development & AI integration",
+      "Data engineering with Python/SQL",
+      "Shipping fast, learning faster"
+    ]
+  },
+  "experience": [
+    {
+      "title": "Data Analyst Intern",
+      "company": "LinkedIn Corporation - LMS (LinkedIn Marketing Solution)",
+      "date": "Feb 2025 - Aug 2025",
+      "location": "New York",
+      "description": "NEON 团队：协调 NEON Council(1K+ 销售) 反馈，开发特性并修复缺陷；工具改进助力营收提升 15%；Python/SQL 降低报表缺陷 10%。",
+      "technologies": ["Python", "SQL", "Data Analytics", "Agile"]
+    }
+  ],
+  "projects": [
+    {
+      "id": "matrix-portfolio",
+      "name": "Matrix Portfolio",
+      "description": "矩阵雨与霓虹 UI 的 Next.js 作品集。",
+      "tags": ["Next.js", "TypeScript", "Canvas"],
+      "url": "https://your-domain.com"
+    }
+  ],
+  "skills": {
+    "languages": ["Java", "Python", "JavaScript", "TypeScript", "SQL", "C#", "Bash"],
+    "frameworks": ["Spring Boot", "Flask", "Next.js", "React"],
+    "tools": ["Git", "GitHub", "API Integration"],
+    "ai": ["OpenAI API", "LangChain", "AutoGen"],
+    "softSkills": ["Problem-solving", "Teamwork", "Communication", "Adaptability"]
+  },
+  "social": {
+    "linkedin": "https://linkedin.com/in/yourprofile",
+    "github": "https://github.com/yourname",
+    "email": "mailto:you@example.com",
+    "website": "https://your-domain.com"
+  }
+}
+
