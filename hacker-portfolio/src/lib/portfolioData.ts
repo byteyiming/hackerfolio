@@ -85,6 +85,23 @@ export const portfolioData: {
   ],
   projects: [
     {
+      id: "us-civics-study-hub",
+      name: "U.S. Civics Study Hub",
+      description:
+        "Multi-lingual naturalization practice app with Quiz and Flashcards, i18n routes, Zustand state, local persistence, and SEO (sitemap/robots).",
+      tags: [
+        "Next.js",
+        "React",
+        "TypeScript",
+        "Tailwind CSS",
+        "next-intl",
+        "Zustand",
+        "i18n",
+        "SEO",
+      ],
+      url: "https://us-citizenship-qa.vercel.app/en",
+    },
+    {
       id: "portfolio-ai-chatbot",
       name: "Personal Portfolio with AI Chatbot",
       description:
@@ -101,7 +118,22 @@ export const portfolioData: {
       url: "https://github.com/byteyiming/Dadi360-Rental-Job-Monitor",
     },
   ],
-  portfolio: [],
+  portfolio: [
+    {
+      name: "U.S. Civics Study Hub",
+      url: "https://us-citizenship-qa.vercel.app/en",
+      description:
+        "Practice for the U.S. civics test with quizzes and flashcards. English, Spanish, Chinese.",
+      technologies: [
+        "Next.js",
+        "React",
+        "TypeScript",
+        "Tailwind CSS",
+        "next-intl",
+        "Zustand",
+      ],
+    },
+  ],
   skills: {
     languages: ["Java", "Python", "JavaScript", "TypeScript", "SQL", "C#", "Bash"],
     frameworks: ["Spring Boot", "Flask", "Next.js", "React", "NumPy", "Pandas", "Matplotlib", "HDF5"],
