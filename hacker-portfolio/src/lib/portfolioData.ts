@@ -102,6 +102,26 @@ export const portfolioData: {
       url: "https://us-citizenship-qa.vercel.app/en",
     },
     {
+      id: "connectsphere",
+      name: "ConnectSphere (Campus Connect)",
+      description:
+        "A full-stack study partner matching app for university students built on a serverless stack. Features a complete authentication system with NextAuth.js v5, including .edu email registration, password reset, and a token-based email verification flow with Resend. Uses Prisma with Neon (PostgreSQL) for the database and Upstash (Redis) for session management.",
+      tags: [
+        "Next.js (App Router)",
+        "React",
+        "TypeScript",
+        "Tailwind CSS",
+        "NextAuth.js",
+        "Server Actions",
+        "Prisma",
+        "PostgreSQL (Neon)",
+        "Redis (Upstash)",
+        "Resend",
+        "Zod",
+      ],
+      url: "https://connectsphere-eight.vercel.app/",
+    },
+    {
       id: "portfolio-ai-chatbot",
       name: "Personal Portfolio with AI Chatbot",
       description:
