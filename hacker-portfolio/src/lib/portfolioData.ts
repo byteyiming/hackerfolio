@@ -135,7 +135,7 @@ export const portfolioData: {
       description:
         "Python web scraping app that monitors multiple sites for rentals, jobs, and listings, sending email notifications. Modular design with state persistence to prevent duplicates.",
       tags: ["Python", "Web Scraping", "Automation"],
-      url: "https://github.com/byteyiming/Dadi360-Rental-Job-Monitor",
+      url: "https://github.com/yimgao/Dadi360-Rental-Job-Monitor",
     },
   ],
   portfolio: [
@@ -169,7 +169,7 @@ export const portfolioData: {
   },
   social: {
     linkedin: "https://www.linkedin.com/in/yimgao00",
-    github: "https://github.com/byteyiming",
+    github: "https://github.com/yimgao",
     email: "mailto:yimgao00@gmail.com",
     website: "https://www.askyiming.engineer/",
   },
