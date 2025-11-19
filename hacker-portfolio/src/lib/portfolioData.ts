@@ -168,7 +168,7 @@ export const portfolioData: {
     ],
   },
   social: {
-    linkedin: "https://www.linkedin.com/in/yimgao00",
+    linkedin: "https://www.linkedin.com/in/yimgao/",
     github: "https://github.com/yimgao",
     email: "mailto:yimgao00@gmail.com",
     website: "https://www.askyiming.engineer/",
